@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+	color: #28583F;
+}
+
+.navbar ul {
+	list-style-type: none;
+	background-color: #28583F;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+}
+.navbar a {
+	color: #F0EEE1;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: block;
+	text-align: center;
+}
+.navbar a:hover{
+	background-color: #A8BFA9;
+	color: #28583F;
+}
+
+main {
+	color: #276C49;
+}
